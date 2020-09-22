@@ -1,4 +1,4 @@
-package factoryMethod.cap1;
+package node02_factoryMethod;
 
 /**
  * word导出具体工厂

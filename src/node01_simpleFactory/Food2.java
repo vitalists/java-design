@@ -1,4 +1,4 @@
-package factory.cap1;
+package node01_simpleFactory;
 
 class Food2 extends BaseFood{
      @Override

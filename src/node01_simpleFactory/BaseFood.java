@@ -1,4 +1,4 @@
-package factory.cap1;
+package node01_simpleFactory;
 
 public abstract class BaseFood {
     private String name;

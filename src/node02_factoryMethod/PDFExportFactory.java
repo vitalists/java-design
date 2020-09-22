@@ -1,4 +1,4 @@
-package factoryMethod.cap1;
+package node02_factoryMethod;
 
 /**
  * pdf导出具体工厂

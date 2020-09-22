@@ -1,4 +1,4 @@
-package factoryMethod.cap1;
+package node02_factoryMethod;
 public class TestApp {
     public static void main(String[] args) {
         ExportFactory exportFactory = new PDFExportFactory();
