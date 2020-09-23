@@ -1,8 +1,6 @@
-package ndoe04_property;
+package node04_property;
 
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**

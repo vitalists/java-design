@@ -1,4 +1,4 @@
-package ndoe04_property;
+package node04_property;
 
 import java.io.*;
 
